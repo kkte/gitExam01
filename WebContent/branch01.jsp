@@ -8,10 +8,7 @@
 
 </head>
 <body>
-
-<h1> gitTest01.jsp문서입니다.</h1>
-<h2> gitTrest01에서 작업중!!</>
-
+<h2>branch01 입니다 </h2>
 
 </body>
 </html>
